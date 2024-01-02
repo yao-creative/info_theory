@@ -1,0 +1,198 @@
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/principia_mathematica.txt of length: 804324
+-------------------
+counts: 1, disjoint: True
+Input-Ouput Verification: True
+num_bits_data_utf8: 6434592, num_bits_code: 3745936 num_bits_dictionary: 1469
+Compression ratio: 1.7170794189579188
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/Bible.txt of length: 4332587
+-------------------
+counts: 1, disjoint: True
+Input-Ouput Verification: True
+num_bits_data_utf8: 34660696, num_bits_code: 19827130 num_bits_dictionary: 1521
+Compression ratio: 1.7480107950863626
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/beowulf.txt of length: 273007
+-------------------
+counts: 1, disjoint: True
+Input-Ouput Verification: True
+num_bits_data_utf8: 2184056, num_bits_code: 1226832 num_bits_dictionary: 1520
+Compression ratio: 1.7780375657791903
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/theorie_des_distributions.txt of length: 275644
+-------------------
+counts: 1, disjoint: True
+Input-Ouput Verification: True
+num_bits_data_utf8: 2205152, num_bits_code: 1342802 num_bits_dictionary: 1607
+Compression ratio: 1.640238945142438
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/Myth_of_Sisyphus.txt of length: 113168
+-------------------
+counts: 1, disjoint: True
+Input-Ouput Verification: True
+num_bits_data_utf8: 905344, num_bits_code: 497791 num_bits_dictionary: 1703
+Compression ratio: 1.8125222725398102
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/hamlet.txt of length: 177888
+-------------------
+counts: 1, disjoint: True
+Input-Ouput Verification: True
+num_bits_data_utf8: 1423104, num_bits_code: 849057 num_bits_dictionary: 1618
+Compression ratio: 1.6729115114467923
+-------------------
+Running Huffman Model on input file: filtered_datasets/music/around_the_world.txt of length: 2519
+-------------------
+counts: 1, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 20152, num_bits_code: 9426 num_bits_dictionary: 1610
+Compression ratio: 1.8260239217107648
+-------------------
+Running Huffman Model on input file: filtered_datasets/music/God_save_the_king.txt of length: 327
+-------------------
+counts: 1, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 2616, num_bits_code: 1476 num_bits_dictionary: 1610
+Compression ratio: 0.847699287103046
+-------------------
+Running Huffman Model on input file: filtered_datasets/music/magic_flute.txt of length: 49723
+-------------------
+counts: 1, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 397784, num_bits_code: 242450 num_bits_dictionary: 1634
+Compression ratio: 1.6297012503892103
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/principia_mathematica.txt of length: 804324
+-------------------
+counts: 2, disjoint: True
+Input-Ouput Verification: True
+num_bits_data_utf8: 6434592, num_bits_code: 3331620 num_bits_dictionary: 74580
+Compression ratio: 1.8890822617579708
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/Bible.txt of length: 4332587
+-------------------
+counts: 2, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 34660696, num_bits_code: 17156049 num_bits_dictionary: 84239
+Compression ratio: 2.0104476212926374
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/beowulf.txt of length: 273007
+-------------------
+counts: 2, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 2184056, num_bits_code: 1083124 num_bits_dictionary: 95286
+Compression ratio: 1.8533922828217684
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/theorie_des_distributions.txt of length: 275644
+-------------------
+counts: 2, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 2205152, num_bits_code: 1170836 num_bits_dictionary: 131319
+Compression ratio: 1.6934635277674317
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/Myth_of_Sisyphus.txt of length: 113168
+-------------------
+counts: 2, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 905344, num_bits_code: 442626 num_bits_dictionary: 132173
+Compression ratio: 1.5750618912002283
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/hamlet.txt of length: 177888
+-------------------
+counts: 2, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 1423104, num_bits_code: 734331 num_bits_dictionary: 132096
+Compression ratio: 1.6424972905968998
+-------------------
+Running Huffman Model on input file: filtered_datasets/music/around_the_world.txt of length: 2519
+-------------------
+counts: 2, disjoint: True
+Input-Ouput Verification: True
+num_bits_data_utf8: 20152, num_bits_code: 5544 num_bits_dictionary: 132037
+Compression ratio: 0.14647371366685807
+-------------------
+Running Huffman Model on input file: filtered_datasets/music/God_save_the_king.txt of length: 327
+-------------------
+counts: 2, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 2616, num_bits_code: 1039 num_bits_dictionary: 131896
+Compression ratio: 0.019678790386279007
+-------------------
+Running Huffman Model on input file: filtered_datasets/music/magic_flute.txt of length: 49723
+-------------------
+counts: 2, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 397784, num_bits_code: 205764 num_bits_dictionary: 132224
+Compression ratio: 1.1769175236990663
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/principia_mathematica.txt of length: 804324
+-------------------
+counts: 4, disjoint: True
+Input-Ouput Verification: True
+num_bits_data_utf8: 6434592, num_bits_code: 2613359 num_bits_dictionary: 1481492
+Compression ratio: 1.571386113926978
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/Bible.txt of length: 4332587
+-------------------
+counts: 4, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 34660696, num_bits_code: 13440213 num_bits_dictionary: 3152230
+Compression ratio: 2.0889447081421344
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/beowulf.txt of length: 273007
+-------------------
+counts: 4, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 2184056, num_bits_code: 824241 num_bits_dictionary: 3467645
+Compression ratio: 0.5088802451882459
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/theorie_des_distributions.txt of length: 275644
+-------------------
+counts: 4, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 2205152, num_bits_code: 858576 num_bits_dictionary: 4051796
+Compression ratio: 0.44908043626837235
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/Myth_of_Sisyphus.txt of length: 113168
+-------------------
+counts: 4, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 905344, num_bits_code: 339424 num_bits_dictionary: 4097644
+Compression ratio: 0.2040410469255824
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/hamlet.txt of length: 177888
+-------------------
+counts: 4, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 1423104, num_bits_code: 558544 num_bits_dictionary: 4208839
+Compression ratio: 0.2985084269503835
+-------------------
+Running Huffman Model on input file: filtered_datasets/music/around_the_world.txt of length: 2519
+-------------------
+counts: 4, disjoint: True
+Input-Ouput Verification: True
+num_bits_data_utf8: 20152, num_bits_code: 2844 num_bits_dictionary: 4208775
+Compression ratio: 0.004784858269468345
+-------------------
+Running Huffman Model on input file: filtered_datasets/music/God_save_the_king.txt of length: 327
+-------------------
+counts: 4, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 2616, num_bits_code: 514 num_bits_dictionary: 4208368
+Compression ratio: 0.000621542727973842
+-------------------
+Running Huffman Model on input file: filtered_datasets/music/magic_flute.txt of length: 49723
+-------------------
+counts: 4, disjoint: True
+Input-Ouput Verification: False
+num_bits_data_utf8: 397784, num_bits_code: 146417 num_bits_dictionary: 4243336
+Compression ratio: 0.09061648798918755
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/principia_mathematica.txt of length: 804324
+-------------------
+counts: 8, disjoint: True
+File: filtered_datasets/books/principia_mathematica.txt failed on n_gram size: 8
+-------------------
+Running Huffman Model on input file: filtered_datasets/books/Bible.txt of length: 4332587
+-------------------
+counts: 8, disjoint: True
